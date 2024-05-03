@@ -1,0 +1,4 @@
+select * from Agent;
+select * from player_league;
+select * from Map;
+select * from Test;

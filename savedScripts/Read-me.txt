@@ -1,0 +1,1 @@
+Folder to save scripts build in the interface.

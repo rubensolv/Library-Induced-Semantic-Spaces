@@ -1,0 +1,3 @@
+harvest(1)
+train(Worker,50,EnemyDir)
+if(HaveUnitsToDistantToEnemy(Ranged,3)) then(attack(Worker,closest))

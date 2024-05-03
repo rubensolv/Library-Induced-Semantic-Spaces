@@ -1,0 +1,4 @@
+delete from Agent;
+delete from player_league;
+delete from league_info;
+delete from Test;

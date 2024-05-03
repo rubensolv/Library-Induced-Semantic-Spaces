@@ -1,0 +1,7 @@
+build(Barrack,1,Up)
+train(Worker,2,EnemyDir)
+harvest(2)
+train(Ranged,2,EnemyDir)
+attack(Ranged,closest)
+for(u) (if(HaveQtdUnitsAttacking(Ranged,1,u)) then(train(Ranged,50,EnemyDir,u)))
+for(u) (if(HaveUnitsinEnemyRange(Worker,u)) then(moveaway(Worker,u)))

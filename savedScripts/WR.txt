@@ -1,0 +1,3 @@
+harvest(1)
+train(Worker,100,EnemyDir)
+attack(Worker,closest)

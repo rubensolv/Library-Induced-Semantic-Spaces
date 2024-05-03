@@ -1,0 +1,4 @@
+build(Barrack,1,Right)
+harvest(1)
+train(Ranged,5,EnemyDir)
+for(u) (moveOnceToCoord(Ranged,1,5,5,u))

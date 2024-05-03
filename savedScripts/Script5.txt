@@ -1,0 +1,1 @@
+harvest(2) train(Worker,9,Right) for(u) (attack(Worker,closest,u))

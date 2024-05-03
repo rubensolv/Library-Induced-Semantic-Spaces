@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;For_S;S;C;Train;Heavy;Down;6;S;S_S;S;For_S;S;S_S;S;For_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;Harvest;50;S;S_S;S;S_S;S;S_S;S;C;Harvest;2;S;For_S;S;C;Train;Ranged;EnemyDir;5;S;S_S;S;C;Build;Barracks;Up;6;S;C;Harvest;25;S;C;Attack;Closest;S;C;Train;Worker;EnemyDir;4

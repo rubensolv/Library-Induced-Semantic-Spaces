@@ -1,0 +1,1 @@
+S;For_S;S;S_S;S;S_S;S;For_S;S;S_S;S;S_S;S;If_B_then_S;B;IsBuilder;S;For_S;S;C;Train;Heavy;EnemyDir;10;S;C;Train;Worker;Up;4;S;S_S;S;C;Idle;S;S_S;S;C;Harvest;2;S;C;Harvest;3;S;C;Attack;Closest;S;For_S;S;S_S;S;C;Build;Barracks;Down;6;S;S_S;S;C;Harvest;8;S;C;Attack;Closest
