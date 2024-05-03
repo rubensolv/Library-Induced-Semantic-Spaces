@@ -1,2 +1,2 @@
-# Library-Induced-Semantic-Space
-Library-Induced Semantic Space
+# Library-Induced-Semantic-Spaces
+Library-Induced Semantic Spaces
