@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Library-Induced Semantic Spaces (LISS)
 
 This repository contains the implementation of the Library-Induced Semantic Spaces (LISS) approach described in the paper "Searching for Programmatic Policies in Semantic Spaces" by Rubens O. Moraes and Levi H. S. Lelis.
@@ -103,3 +104,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 This research was supported by Canada's NSERC, the CIFAR AI Chairs program, and Brazil's CAPES. The computational resources were provided by the Digital Research Alliance of Canada and the UFV Cluster.
+=======
+# Searching for Programmatic Policies in Semantic Spaces
+This is the repository for Library-Induced Semantic Spaces, a paper in Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI-24)
+>>>>>>> origin/main
